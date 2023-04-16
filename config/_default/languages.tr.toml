@@ -20,10 +20,11 @@ dateFormat = "2 January 2006"
   bio = ""
   links = [
     { github = "https://github.com/hellstabber" },
+    { gitlab = "https://gitlab.com/hellstabber" },
     { keybase = "https://keybase.io/erenkaplan" },
     { twitter = "https://twitter.com/hellstabber" },
     { mastodon = "https://mastodon.social/@burden" },
-    { patreon = "https://www.patreon.com/hellstabber" }
+    { steam = "https://steamcommunity.com/id/hellstabber/" },
   ]
 
 
