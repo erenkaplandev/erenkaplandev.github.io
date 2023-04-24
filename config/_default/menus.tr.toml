@@ -21,10 +21,10 @@
 #  pageRef = "hakkımda"
 #  weight = 20
 
- [[main]]
- name = "İletişim"
- pageRef = "iletişim"
- weight = 30
+#  [[main]]
+#  name = "İletişim"
+#  pageRef = "iletişim"
+#  weight = 30
 
 
 #[[main]]
