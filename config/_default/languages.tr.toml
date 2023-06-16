@@ -21,11 +21,7 @@ dateFormat = "2 January 2006"
   links = [
     { email = "mailto:ek.xcodeproject@gmail.com"},
     { github = "https://github.com/hellstabber" },
-    { keybase = "https://keybase.io/erenkaplan" },
-    { twitter = "https://twitter.com/hellstabber" },
     { mastodon = "https://defcon.social/@hellstabber" },
-    { instagram = "https://instagram.com/hellstabber" },
-    { steam = "https://steamcommunity.com/id/hellstabber/" },
     
   ]
 
