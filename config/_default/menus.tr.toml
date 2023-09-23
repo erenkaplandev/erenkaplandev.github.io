@@ -11,20 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Blog"
- pageRef = "posts"
- weight = 10
- 
+name = "Blog"
+pageRef = "posts"
+weight = 10
 
 # [[main]]
-#  name = "Hakkımda"
-#  pageRef = "hakkımda"
-#  weight = 20
+# name = "Hakkımda"
+# pageRef = "hakkimda"
+# weight = 20
 
-#  [[main]]
-#  name = "İletişim"
-#  pageRef = "iletişim"
-#  weight = 30
+# [[main]]
+# name = "Destek"
+# pageRef = "destek"
+# weight = 30
 
 
 #[[main]]
@@ -71,11 +70,11 @@
 
 
 [[footer]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 10
+name = "Tags"
+pageRef = "tags"
+weight = 10
 
 [[footer]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
+name = "Categories"
+pageRef = "categories"
+weight = 20
