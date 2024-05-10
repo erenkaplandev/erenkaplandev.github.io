@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swift on エレン</title>
+    <link>http://localhost:1313/tags/swift/</link>
+    <description>Recent content in Swift on エレン</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr</language>
+    <copyright>© 2024 Eren Kaplan</copyright>
+    <lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch Linux’ta Swift ve Vapor</title>
+      <link>http://localhost:1313/posts/arch-linux-swift/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/arch-linux-swift/</guid>
+      <description>Swift, Apple’ın geliştirdiği open-source, güçlü ve tasarımı güzel bir dil.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

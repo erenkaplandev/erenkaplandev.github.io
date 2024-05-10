@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on エレン</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on エレン</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr</language>
+    <copyright>© 2024 Eren Kaplan</copyright>
+    <lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimalist</title>
+      <link>http://localhost:1313/tags/minimalist/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/minimalist/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sosyal Medya</title>
+      <link>http://localhost:1313/tags/sosyal-medya/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sosyal-medya/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Teknoloji</title>
+      <link>http://localhost:1313/tags/teknoloji/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/teknoloji/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dijital Minimalizm</title>
+      <link>http://localhost:1313/tags/dijital-minimalizm/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/dijital-minimalizm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Server Side</title>
+      <link>http://localhost:1313/tags/server-side/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/server-side/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Swift</title>
+      <link>http://localhost:1313/tags/swift/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/swift/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

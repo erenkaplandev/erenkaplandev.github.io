@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on エレン</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on エレン</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr</language>
+    <copyright>© 2024 Eren Kaplan</copyright>
+    <lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sosyal Medyayı Silmek Sizi Dijital Minimalist Yapmaz</title>
+      <link>http://localhost:1313/posts/sosyal-medyayi-silmek-sizi-dijital-minimalist-yapmaz/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/sosyal-medyayi-silmek-sizi-dijital-minimalist-yapmaz/</guid>
+      <description>Cal Newport&amp;rsquo;un Dijital Minimalizm kitabını bu yıl içinde edinip okumuştum.</description>
+      
+    </item>
+    
+    <item>
+      <title>Dijital Minimalizm</title>
+      <link>http://localhost:1313/posts/digital-minimalizm/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/digital-minimalizm/</guid>
+      <description>Teknoloji hayatımızın her alanında karşımıza çıkan bir araç.</description>
+      
+    </item>
+    
+    <item>
+      <title>Arch Linux’ta Swift ve Vapor</title>
+      <link>http://localhost:1313/posts/arch-linux-swift/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/arch-linux-swift/</guid>
+      <description>Swift, Apple’ın geliştirdiği open-source, güçlü ve tasarımı güzel bir dil.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
