@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
     <copyright>© 2024 Eren Kaplan</copyright>
-    <lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GNU/Linux&#39;ta Dosya Yetkilendirmeleri</title>
+      <link>http://localhost:1313/posts/linuxta-dosya-yetkilendirmeleri/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/linuxta-dosya-yetkilendirmeleri/</guid>
+      <description>Linux işletim sistemlerinde dosya ve klasör izinleri, verilerin güvenliğini sağlamanın kritik bir parçasıdır.</description>
+      
+    </item>
+    
     <item>
       <title>Sosyal Medyayı Silmek Sizi Dijital Minimalist Yapmaz</title>
       <link>http://localhost:1313/posts/sosyal-medyayi-silmek-sizi-dijital-minimalist-yapmaz/</link>

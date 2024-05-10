@@ -14,16 +14,16 @@ dateFormat = "2 January 2006"
 
 
 [author]
-  name = "Eren Kaplan"
-  image = "img/me.png"
-  headline = ""
-  bio = ""
-  links = [
-    { email = "mailto:ek.xcodeproject@gmail.com"},
-    { github = "https://github.com/hellstabber" },
-    { mastodon = "https://defcon.social/@hellstabber" },
-    
-  ]
+name = "Eren Kaplan"
+image = "img/me.jpeg"
+headline = ""
+bio = ""
+links = [
+  { email = "mailto:ek.xcodeproject@gmail.com" },
+  { github = "https://github.com/hellstabber" },
+  { mastodon = "https://defcon.social/@hellstabber" },
+
+]
 
 
 # [author]
