@@ -19,9 +19,13 @@ image = "img/me.jpeg"
 headline = ""
 bio = ""
 links = [
-  { email = "mailto:ek.xcodeproject@gmail.com" },
+  { email = "mailto:erenkaplan@protonmail.com" },
+  { gitlab = "https://gitlab.com/hellstabber" },
   { github = "https://github.com/hellstabber" },
   { mastodon = "https://defcon.social/@hellstabber" },
+  { twitter = "https://twitter.com/hellstabber" },
+  { linkedin = "https://linkedin.com/in/eren-kaplan-sec" },
+  { keybase = "https://keybase.io/erenkaplan" },
 
 ]
 

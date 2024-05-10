@@ -11,10 +11,15 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Blog"
- pageRef = "posts"
- weight = 10
- 
+name = "Blog"
+pageRef = "posts"
+weight = 10
+
+[[main]]
+pre = "keyoxide"
+name = "Keyoxide"
+url = "https://keyoxide.org/hkp/67832726716A4FB39BCD556297B0A94F35CD485E"
+weight = 20
 
 # [[main]]
 #  name = "Hakkımda"
@@ -71,11 +76,11 @@
 
 
 [[footer]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 10
+name = "Tags"
+pageRef = "tags"
+weight = 10
 
 [[footer]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
+name = "Categories"
+pageRef = "categories"
+weight = 20
