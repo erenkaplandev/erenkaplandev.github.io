@@ -112,3 +112,5 @@ Bu komut projemizin derlenmesi ve çalışması için. İlk çalışmada birazc�
 Derleme bittikten sonra tarayıcınızdan [http://127.0.0.1:8080/hello](http://127.0.0.1:8080/hello) adresine gidip yine çalışıp çalışmadığını teyit edebilirsiniz.
 
 Bugünkü yazımda Arch Linux’ta Swift ve Vapor kurulumunu anlattım. Swift aşırı sempati duyduğum, yazarken eğlendiğim bir dil. Kurulumda sıkıntı yaşarsanız ~~Discord sunucuma~~ gelip takıldığınız yerler hakkında tartışabiliriz. Ayrıca yeni yazdığım yazılardan haberdar olmak için de [Twitter’dan](https://twitter.com/hellstabber) takip edebilirsiniz. またね!
+
+<img src="insan-yazimi.png" alt="https://notbyai.fyi/" width="300" height="200">

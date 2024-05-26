@@ -47,3 +47,5 @@ Her karakterin de değerleri vardır:
 ![](https://i.imgur.com/6eMuZO7.png)
 
 Umarım yazım açıklayıcı olmuştur. İyi günler dilerim 👋🏻
+
+<img src="insan-yazimi.png" alt="https://notbyai.fyi/" width="300" height="200">

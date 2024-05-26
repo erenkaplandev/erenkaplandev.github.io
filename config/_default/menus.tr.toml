@@ -16,10 +16,20 @@ pageRef = "posts"
 weight = 10
 
 [[main]]
+name = "Bağış"
+pageRef = "bagis.md"
+weight = 20
+
+[[main]]
+name = "Hakkımda"
+pageRef = "hakkimda"
+weight = 30
+
+[[main]]
 pre = "keyoxide"
 name = "Keyoxide"
 url = "https://keyoxide.org/hkp/67832726716A4FB39BCD556297B0A94F35CD485E"
-weight = 20
+weight = 40
 
 # [[main]]
 #  name = "Hakkımda"

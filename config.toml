@@ -1,5 +1,4 @@
 baseURL = "https://hellstabber.github.io/"
 languageCode = "tr-tr"
 title = "エレン"
-theme = "blowfish"
-
+theme = ["hugo-cloak-email", "blowfish"]

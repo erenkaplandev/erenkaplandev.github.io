@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
     <copyright>© 2024 Eren Kaplan</copyright>
-    <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GNU/Linux&#39;ta Dosya Yetkilendirmeleri</title>
       <link>http://localhost:1313/posts/linuxta-dosya-yetkilendirmeleri/</link>
@@ -45,6 +45,16 @@
       
       <guid>http://localhost:1313/posts/arch-linux-swift/</guid>
       <description>Swift, Apple’ın geliştirdiği open-source, güçlü ve tasarımı güzel bir dil.</description>
+      
+    </item>
+    
+    <item>
+      <title>Bağış</title>
+      <link>http://localhost:1313/bagis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/bagis/</guid>
+      <description>Papara #Papara numaram: 7883577196</description>
       
     </item>
     

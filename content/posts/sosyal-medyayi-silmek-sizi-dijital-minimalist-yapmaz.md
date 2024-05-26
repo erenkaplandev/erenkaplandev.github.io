@@ -47,3 +47,6 @@ Bu süreçte dikkat dağınıklığımı kazanmamı sağlayan araçlar:
   - Telefon dışında **akıllı saatim** de dikkatimi dağıtıyordu. Arada normal saat takıyorum. Akıllı saat takacağım zamanda bildirim gönderme özelliğini kapatıyorum.
   - **Ajanda ve kalem** aklıma gelen şeyleri not almam için biraz yardımcı oldu. Notion ve Obsidian bağımlısı olarak bu alışkanlığı çok devam ettiremedim. Biraz azimli davranıp alışırsanız not ihtiyaçları, planlamalar ve dijital olarak kullandığınız takvimin yerini alabilir.
   - Telefonumu **arka cebinize veya çantaya** koymaya çalışın. Böylece sadece ihtiyacınız olduğunda aklınıza gelecektir.
+
+
+<img src="insan-yazimi.png" alt="https://notbyai.fyi/" width="300" height="200">

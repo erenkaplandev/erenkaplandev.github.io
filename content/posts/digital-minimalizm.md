@@ -39,3 +39,5 @@ Dijital minimalizm Cal Newport tarafından ortaya atılmış bir görüştür. K
 - Günlük hayatınızda çok e-posta alıp, gönderiyorsanız gereksiz e-posta’larınızı tespit edip abonelikten çıkabilirsiniz. Hatta bunun üzerine gelen e-posta’larınızı kategorize ederseniz dikkat dağıtmayan, düzgün bir e-posta deneyimi yaşarsınız.
 
 Benim kendimde bulduğum ve sizelere çözüm önerisi sunabileceğim şeyler bunlar. Bunları uyguladıktan sonra arkadaşlarım, kendime daha çok vakit ayırdığımı farkettim. Eğer teknoloji ve sosyal medya ile ilgili sorunlar yaşıyorsanız, dijital minimalizm farkındalığı sizin için bir başlangıç noktası olabilir. Yazıyı beğendiyseniz beni Twitter’dan takip etmeyi ve ~~Discord sunucuma~~ katılmayı unutmayın. さよなら!
+
+<img src="insan-yazimi.png" alt="https://notbyai.fyi/" width="300" height="200">
