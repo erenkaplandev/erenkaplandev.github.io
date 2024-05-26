@@ -15,7 +15,7 @@ Bana [buymeacoffee.com/eren_kaplan](https://buymeacoffee.com/eren_kaplan) adresi
 
 ## Kriptopara
 
-Blockchain teknolojisi paranın işleyiş biçiminde devrim yaratıyor. Özel anahtarlar sizde olduğu sürece paranızın sahibi sizsiniz. Banka yok, üçüncü taraf riski yok. Geçerli bir işlem almanın tek yolu, göndericiden geçerli bir dijital imza almaktır; bu imza yalnızca söz konusu işlem için geçerlidir (imzanın yeniden kullanımı mümkün değildir) ve yalnızca gönderici hesabın bu işlemi göndermek için yeterli paraya sahip olması gerekir (çifte harcama saldırıları mümkün değildir).
+Blockchain teknolojisi paranın işleyiş biçiminde devrim yaratıyor. Özel anahtarlar sizde olduğu sürece paranızın sahibi sizsiniz. Banka yok, üçüncü taraf riski yok. Geçerli bir işlem almanın tek yolu, göndericiden geçerli bir dijital imza almaktır; bu imza yalnızca söz konusu işlem için geçerlidir (imzanın yeniden kullanımı mümkün değildir) ve yalnızca gönderici hesabın bu işlemi göndermek için yeterli paraya sahip olması gerekir.
 
 Eğer siz de benim gibi kripto paraların ana akım bankacılığın bozuk tasarımına çok daha iyi bir alternatif oluşturduğuna inanıyorsanız, geleneksel paranın fiyatına bağlı sabit paralar da dahil olmak üzere alabileceğim başlıca kripto paraların açık adreslerini burada bulabilirsiniz.
 
